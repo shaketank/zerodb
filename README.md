@@ -32,7 +32,7 @@ You can install and start the ZeroDB server in seconds. The automated installer 
 
 **Windows (PowerShell):**
 ```powershell
-irm [https://raw.githubusercontent.com/shaketank/zerodb/main/install.ps1](https://raw.githubusercontent.com/shaketank/zerodb/main/install.ps1) | iex
+irm https://raw.githubusercontent.com/shaketank/zerodb/main/install.ps1 | iex
 ```
 
 Once running, open the **ZeroDB Studio** at `http://127.0.0.1:5051` to get your API Keys. *(Linux support coming soon!)*
