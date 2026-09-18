@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shaketank/zerodb/main/logo.png" alt="ZeroDB Logo" width="150" />
+  <img src="https://i.imgur.com/RbTsKyg.png" alt="ZeroDB Logo" width="150" />
   <h1>⚡ ZeroDB</h1>
   <p><strong>The extreme-performance, self-hosted NoSQL Database for modern Apps.</strong></p>
   
