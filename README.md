@@ -51,7 +51,7 @@ Connect to your database and start shipping:
 import { createClient } from 'zerodb-client';
 
 // 1. Initialize Client
-const db = createClient('[http://127.0.0.1:5051/api](http://127.0.0.1:5051/api)', 'your_public_anon_key');
+const db = createClient('[http://127.0.0.1:5051/api]', 'your_public_anon_key');
 
 // 2. Insert Data
 await db.collection('users').insert('usr_01', {
