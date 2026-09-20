@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://i.imgur.com/RbTsKyg.png" alt="ZeroDB Logo" width="150" />
+    <img src="https://i.imgur.com/p3117dq.png" alt="SHAKESHIELD AC" width="150" />
   <h1>⚡ ZeroDB</h1>
   <p><strong>The extreme-performance, self-hosted NoSQL Database for modern Apps.</strong></p>
   
   <p>
     <img src="https://img.shields.io/badge/Written_in-Rust-f74c00?style=for-the-badge&logo=rust" alt="Rust" />
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
-    <img src="https://img.shields.io/badge/Version-1.0.1-success?style=for-the-badge" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.0.2-success?style=for-the-badge" alt="Version" />
   </p>
 </div>
 
