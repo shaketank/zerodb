@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/Written_in-Rust-f74c00?style=for-the-badge&logo=rust" alt="Rust" />
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
-    <img src="https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.0.1-success?style=for-the-badge" alt="Version" />
   </p>
 </div>
 
